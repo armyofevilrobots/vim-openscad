@@ -1,0 +1,10 @@
+This is just a quick and dirty wrap of the openscad vim syntax
+highlighting plugin. Thanks to Sirtaj Singh Kang for building
+this, and take a look at the original files at:
+http://www.vim.org/scripts/script.php?script_id=3556
+
+This is tested as working on vim/ubuntu natty. YMMV. I'll see
+about adding indent support so that we get a nice \= in the
+future, but no guarantees.
+
+ - Derek
