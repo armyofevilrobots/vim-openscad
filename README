@@ -1,3 +1,5 @@
+PATHOGEN - ized vim-openscad ftplugin
+
 This is just a quick and dirty wrap of the openscad vim syntax
 highlighting plugin. Thanks to Sirtaj Singh Kang for building
 this, and take a look at the original files at:
